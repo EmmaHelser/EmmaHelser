@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 my name is Emma and I am a Software Engineer
+
+Have you ever tried to create and teach three dances to a group of people that only really had time to learn one? I have and it takes a bit of patience, some problem solving, and a whole lot of creativity.
+
+I may not be teaching wedding parties any more, but I am using these skills as a software engineer to creatively solve problems and meet users’ needs. Whether that's a redesign of an existing product page or dog poop removal app, creating a great user experience and meeting client needs is the top priority.
+
+Current Tech Stack:
+JavaScript, React, React Native, Node.JS, Express.JS, MySQL, HTML, CSS
 
 <!--
 **EmmaHelser/EmmaHelser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
