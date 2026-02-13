@@ -1,23 +1,15 @@
-### Hi there 👋 my name is Emma and I am a Software Engineer
+### Hi, I’m Emma 👋  
+Android Engineer building thoughtful, high-quality mobile experiences.
 
-Have you ever tried to create and teach three dances to a group of people that only really had time to learn one? I have and it takes a bit of patience, some problem solving, and a whole lot of creativity.
+I enjoy solving product-focused problems, improving usability, and building apps that feel fast and reliable for users. My work focuses on Kotlin-based Android development, modern architecture, and creating maintainable code.
 
-I may not be teaching wedding parties any more, but I am using these skills as a software engineer to creatively solve problems and meet users’ needs. Whether that's a redesign of an existing product page or dog poop removal app, creating a great user experience and meeting client needs is the top priority.
+Before tech, I taught dance — an experience that shaped how I think about communication, iteration, and user experience. Those same skills now help me build better software.
 
-Current Tech Stack:
-JavaScript, React, React Native, Node.JS, Express.JS, MySQL, HTML, CSS
+### 🛠 Tech Stack
+Kotlin • Jetpack Compose • Coroutines/Flow • MVVM • Room • JUnit/Espresso • Gradle • Git
 
-<!--
-**EmmaHelser/EmmaHelser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently interested in
+- Improving app responsiveness & UX quality  
+- Clean and modular Android architecture  
+- Building user-centered products  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
