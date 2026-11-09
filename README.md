@@ -6,7 +6,7 @@ I enjoy solving product-focused problems, improving usability, and building apps
 Before tech, I taught dance — an experience that shaped how I think about communication, iteration, and user experience. Those same skills now help me build better software.
 
 ### 🛠 Tech Stack
-Kotlin • Jetpack Compose • Coroutines/Flow • MVVM • Room • JUnit/Espresso • Gradle • Git
+Kotlin • Jetpack Compose • Coroutines/Flow • MVVM • Room • JUnit/Espresso
 
 ### 🌱 Currently interested in
 - Improving app responsiveness & UX quality  
